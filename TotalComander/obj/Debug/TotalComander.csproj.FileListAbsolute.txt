@@ -1,0 +1,11 @@
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.csprojAssemblyReference.cache
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.Properties.Resources.resources
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.csproj.GenerateResource.cache
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.csproj.CoreCompileInputs.cache
+C:\ProgramowanieSem4\TotalComander\TotalComander\bin\Debug\TotalComander.exe.config
+C:\ProgramowanieSem4\TotalComander\TotalComander\bin\Debug\TotalComander.exe
+C:\ProgramowanieSem4\TotalComander\TotalComander\bin\Debug\TotalComander.pdb
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.exe
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.pdb
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.minTCPanel.resources
+C:\ProgramowanieSem4\TotalComander\TotalComander\obj\Debug\TotalComander.ComandControlPanel.resources
