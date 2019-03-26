@@ -39,6 +39,14 @@ namespace TotalComander
             }
         }
 
+        public string CurrentDrive
+        {
+            get
+            {
+                return comboBox1.SelectedItem.ToString();
+            }
+        }
+
         #endregion
 
         #region event
@@ -54,8 +62,6 @@ namespace TotalComander
             foreach (var d in drivers)
                 Console.WriteLine(d);
 
-
-
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -65,5 +71,6 @@ namespace TotalComander
                 SelectedDriver();
             }
         }
+
     }
 }

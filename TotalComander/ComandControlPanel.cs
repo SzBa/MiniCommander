@@ -24,8 +24,8 @@ namespace TotalComander
 
         private void MinTCPanel1_SelectedDriver()
         {
-            
-            //throw new NotImplementedException();
+            minTCPanel1.CurrentPath = minTCPanel1.CurrentDrive;
         }
+
     }
 }

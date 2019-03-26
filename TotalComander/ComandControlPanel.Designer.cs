@@ -53,7 +53,7 @@
 
         #endregion
 
-        private minTCPanel userControl11;
+       // private minTCPanel userControl11;
         private minTCPanel minTCPanel1;
     }
 }
