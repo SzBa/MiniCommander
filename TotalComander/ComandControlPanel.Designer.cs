@@ -39,13 +39,13 @@
             this.minTCPanel1.Size = new System.Drawing.Size(510, 638);
             this.minTCPanel1.TabIndex = 0;
             // 
-            // Form1
+            // ComandControlPanel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(630, 644);
             this.Controls.Add(this.minTCPanel1);
-            this.Name = "Form1";
+            this.Name = "ComandControlPanel";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
